@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vysuvysavya&label=Profile%20views&color=0e75b6&style=flat" alt="vysuvysavya" /> </p>
 
-- 🌱 I’m currently immersed **in expanding my expertise with the latest technologies and DevOps.**
+- 🌱 I’m currently immersed in **expanding my expertise with the latest technologies like DevOps,ML, DL .**
 
-- 📫 How to reach me **vysu.vysavya@gmail.com for any inquiries or collaborations**
+- 📫 How to reach me **vysu.vysavya@gmail.com** for any inquiries or collaborations
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
