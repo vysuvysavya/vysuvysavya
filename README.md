@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vysavya Gokavarapu</h1>
 <h3 align="center">A Passionate Full Stack Developer | Coding Enthusiast | DSA & Emerging Technologies Advocate</h3>
-<img align="right" alt="coding" width = "400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3Fx6eJTBPxxHRE5pEJWzsi&ust=1724943459510000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjUv6X5l4gDFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width = "400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vysuvysavya&label=Profile%20views&color=0e75b6&style=flat" alt="vysuvysavya" /> </p>
