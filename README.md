@@ -3,6 +3,7 @@
 <br>I work with ⚛️ Next.js, 📲 React Native, 🔗 GraphQL, and the 🟩 MERN stack.
 <br>I'm also interested in ⚙️ DevOps and 🤖 Machine Learning, and I enjoy finding 🔍 patterns in data.
 
+![Profile Views](https://komarev.com/ghpvc/?username=vysuvysavya&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vysavya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vysu_vysavya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vysu.vysavya@gmail.com)
