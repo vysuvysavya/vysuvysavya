@@ -1,8 +1,9 @@
 # 💫 About Me:
-<br>I'm Gokavarapu Lalitha Prasoona Vysavya, a 🎓 CSE undergrad who loves building 🌐 web and 📱 mobile apps.
-<br>I work with ⚛️ Next.js, 📲 React Native, 🔗 GraphQL, and the 🟩 MERN stack.
-<br>I'm also interested in ⚙️ DevOps and 🤖 Machine Learning, and I enjoy finding 🔍 patterns in data.
-
+ Hey there! Welcome to my GitHub 👋
+<br> 👩‍💻 I'm Gokavarapu Lalitha Prasoona Vysavya, a 🎓 CSE undergrad who loves building 🌐 web and 📱 mobile apps.
+<br> - I work with ⚛️ Next.js, 📲 React Native, 🔗 GraphQL, and the 🟩 MERN stack.
+<br> - Beyond development, I’m exploring ⚙️ DevOps practices and diving into 🤖 Machine Learning — I love spotting 🔍 patterns and making sense of data.
+<br> - Always learning, always building 🚀
 ![Profile Views](https://komarev.com/ghpvc/?username=vysuvysavya&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🌐 Socials:
